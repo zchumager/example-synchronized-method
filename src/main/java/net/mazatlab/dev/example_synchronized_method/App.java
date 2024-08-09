@@ -3,10 +3,6 @@ package net.mazatlab.dev.example_synchronized_method;
 import net.mazatlab.dev.example_synchronized_method.entities.ATM;
 import net.mazatlab.dev.example_synchronized_method.entities.Account;
 
-/**
- *
- *
- */
 public class App 
 {
     public static void main( String[] args )
