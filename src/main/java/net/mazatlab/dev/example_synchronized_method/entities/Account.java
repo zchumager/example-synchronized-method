@@ -32,7 +32,7 @@ public class Account {
 		} catch (InterruptedException e) {
 			e.fillInStackTrace();
 		}
-
+		
 		System.out.printf("Applying payment with name %s%n", Thread.currentThread().getName());
 		
 		if(this.isNotPenniless()) {
